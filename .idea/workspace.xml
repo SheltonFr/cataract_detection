@@ -38,7 +38,7 @@
   "keyToString": {
     "Python.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/shelton/Documents/Isutc/ML/pratics/cataract_detection/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,7 +102,7 @@
       <updated>1728716931049</updated>
       <workItem from="1728716932394" duration="1061000" />
       <workItem from="1728718010038" duration="13589000" />
-      <workItem from="1728808292913" duration="2552000" />
+      <workItem from="1728808292913" duration="4802000" />
     </task>
     <task id="LOCAL-00001" summary="feat: idk what to write">
       <option name="closed" value="true" />
